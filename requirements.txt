@@ -1,0 +1,14 @@
+datasets
+dateparser
+newspaper3k
+pandas
+plotly
+matplotlib
+seaborn
+numpy
+streamlit
+transformers
+torch
+scikit-learn
+sentence-transformers
+openpyxl
