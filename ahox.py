@@ -113,8 +113,3 @@ try:
                     )
 except:
     st.error("Harap input news url")
-
-st.subheader("Referensi")
-st.write(
-    "Rifky Bujana Bisri. [FND: Fake News Detection AI](https://github.com/rifkybujana/FND)"
-)
